@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guts</h1>
 <p align="center">
 
-- 🔭 I’m currently working on [Panel Admin](https://github.com/onlyguts/panel-admin)
-
 - 🌱 I’m currently learning **HTML/CSS/JS/PHP**
 
 - 👨‍💻 All of my projects are available at [Soon..](Soon..)
