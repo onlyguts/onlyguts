@@ -1,50 +1,52 @@
-<h2 align="left">Hi 👋, I'm Guts</h2>
-
-###
+<h1 align="center">Hi 👋, I'm Guts</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyguts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyguts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/tony-brechard-675b2b2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/onlyguts">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" />
+  </a>
 </div>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyguts&show_icons=true&theme=dracula&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/786379657673795756/2F90189DC9790690B95FB90770BAD8538C7267D8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyguts&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyguts&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+<h2 align="center">Technologies & Tools</h2>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-</div>
+<h2 align="center">Pinned Repositories</h2>
 
-###
+<p align="center">
+  <a href="https://github.com/onlyguts/my_twitter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=my_twitter&theme=dracula&hide_border=true" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/onlyguts/my_snapchat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=my_snapchat&theme=dracula&hide_border=true" alt="Repo 2" />
+  </a>
+   <a href="https://github.com/onlyguts/CS2-Discord-Bot-K4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=CS2-Discord-Bot-K4&theme=dracula&hide_border=true" alt="Repo 2" />
+  </a>
+</p>
 
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=onlyguts&style=flat-square&color=blue" alt="Profile Views" />
+</p>
