@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm Guts</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tony-brechard-675b2b2a1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/onlyguts">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" />
-  </a>
-</div>
+
+  <h1 align="center">Hi 👋, I'm Guts</h1>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onlyguts&show_icons=true&theme=dracula&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyguts&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyguts&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -46,7 +36,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=CS2-Discord-Bot-K4&theme=dracula&hide_border=true" alt="Repo 2" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/tony-brechard-675b2b2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/onlyguts">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onlyguts&style=flat-square&color=blue" alt="Profile Views" />
 </p>
