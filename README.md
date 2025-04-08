@@ -1,53 +1,64 @@
-
-
-  <h1 align="center">Hi 👋, I'm Guts</h1>
-
+<h1 align="center">👋 Hello World, moi c'est OnlyGuts</h1>
+<h3 align="center">Développeur full-stack passionné | Fan de projets web créatifs & fonctionnels</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyguts&show_icons=true&theme=dracula&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyguts&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&width=435&lines=JS+%7C+React+%7C+Symfony+%7C+API;Toujours+en+train+d'apprendre" />
 </p>
 
-<h2 align="center">Technologies & Tools</h2>
+
+---
+
+## 🚀 À propos de moi
+
+- 🎓 Étudiant autodidacte en développement web  
+- 💡 Apprend tous les jours de nouvelles technos et bonnes pratiques  
+- ⚙️ Stack actuelle : React, Node.js, Express, MySQL, JS, PHP, Symfony
+- 🎯 Objectif : construire des projets utiles, beaux et scalables  
+
+---
+
+## 🛠️ Stack & Outils
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h2 align="center">Pinned Repositories</h2>
+---
+
+## 💼 Projets récents
+
+- 🧠 [**CS2-Discord-Bot-K4**](https://github.com/onlyguts/CS2-Discord-Bot-K4)  
+  *Bot Discord pour récupérer les stats CS2 automatiquement*
+
+- 👻 [**My Snapchat**](https://github.com/onlyguts/my_snapchat)  
+  *Mini Snapchat en React Native avec Expo*
+
+- 🛒 [**My Ecommerce**](https://github.com/onlyguts/my_ecommerce)  
+  *App de boutique en ligne responsive full-stack*
+
+---
+
+## 🔗 Me retrouver ailleurs
 
 <p align="center">
-  <a href="https://github.com/onlyguts/my_twitter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=my_twitter&theme=dracula&hide_border=true" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/onlyguts/my_snapchat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=my_snapchat&theme=dracula&hide_border=true" alt="Repo 2" />
-  </a>
-   <a href="https://github.com/onlyguts/CS2-Discord-Bot-K4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyguts&repo=CS2-Discord-Bot-K4&theme=dracula&hide_border=true" alt="Repo 2" />
-  </a>
+  <a href="https://github.com/onlyguts"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tonydev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tony@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/tony-brechard-675b2b2a1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/onlyguts">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" />
-  </a>
-    <a href="https://tonybrechard.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge" />
-  </a>
 
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=onlyguts&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+---
+
+> *"Code, code, et code."* 💻  
+
+---
+
