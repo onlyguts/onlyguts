@@ -10,7 +10,7 @@
 
 ## 🚀 À propos de moi
 
-- 🎓 Étudiant autodidacte en développement web  
+- 🎓 Autodidacte en développement web  
 - 💡 Apprend tous les jours de nouvelles technos et bonnes pratiques  
 - ⚙️ Stack actuelle : React, Node.js, Express, MySQL, JS, PHP, Symfony
 - 🎯 Objectif : construire des projets utiles, beaux et scalables  
