@@ -1,12 +1,9 @@
-<h1 align="center">👋 Hello World, moi c'est OnlyGuts ( Tony )</h1>
-<h3 align="center">Développeur full-stack passionné | Fan de projets web créatifs & fonctionnels</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&width=435&lines=JS+%7C+React+%7C+Symfony+%7C+API;Toujours+en+train+d'apprendre" />
-</p>
+## <h1 align="center">👋 Hello World, moi c'est OnlyGuts ( Tony )</h1>
 
 
----
+
+
+
 
 ## 🚀 À propos de moi
 
@@ -14,7 +11,7 @@
 - 💡 Apprend tous les jours de nouvelles technos et bonnes pratiques  
 - ⚙️ Stack actuelle : React, Node.js, Express, MySQL, JS, PHP, Symfony
 
----
+
 
 ## 🛠️ Stack & Outils
 
@@ -32,7 +29,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+
 
 ## 💼 Projets récents
 
@@ -45,7 +42,7 @@
 - 🛒 [**My Ecommerce**](https://github.com/onlyguts/my_ecommerce)  
   *App de boutique en ligne responsive full-stack*
 
----
+
 
 ## 🔗 Me retrouver ailleurs
 
@@ -56,9 +53,9 @@
   <a href="https://tonybrechard.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+
 
 > *"Code, code, et code."* 💻  
 
----
+
 
