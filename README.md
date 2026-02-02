@@ -1,20 +1,6 @@
-## <h1 align="center">👋 Hello World, moi c'est OnlyGuts ( Tony )</h1>
-
-
-
-
-
-
-## 🚀 À propos de moi
-
-- 🎓 Autodidacte en développement web  
-- 💡 Apprend tous les jours de nouvelles technos et bonnes pratiques  
-- ⚙️ Stack actuelle : React, Node.js, Express, MySQL, JS, PHP, Symfony
-
-
+<h1 align="center">👋 Hello World, moi c'est OnlyGuts ( Tony )</h1>
 
 ## 🛠️ Stack & Outils
-
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,mysql,ts,nodejs,express,figma,lua,notion,vercel,yarn,git,github,mongodb,nextjs,redux,vscode)](https://skillicons.dev)
 
