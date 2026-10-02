@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👋 Hello World, moi c'est OnlyGuts </h1>
 
-<!--
-**onlyguts/onlyguts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack & Outils
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,mysql,ts,nodejs,express,figma,lua,notion,vercel,yarn,git,github,mongodb,nextjs,redux,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💼 Projets récents
+
+- 🧠 [**CS2-Discord-Bot-K4**](https://github.com/onlyguts/CS2-Discord-Bot-K4)  
+  *Bot Discord pour récupérer les stats CS2 automatiquement*
+
+- 👻 [**My Snapchat**](https://github.com/onlyguts/my_snapchat)  
+  *Mini Snapchat en React Native avec Expo*
+
+- 🛒 [**My Ecommerce**](https://github.com/onlyguts/my_ecommerce)  
+  *App de boutique en ligne responsive full-stack*
+
+
+
+## 🔗 Me retrouver ailleurs
+
+<p align="center">
+  <a href="https://github.com/onlyguts"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:onlyguts.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
+
+> *"Code, code, et code."* 💻  
+
+
+
